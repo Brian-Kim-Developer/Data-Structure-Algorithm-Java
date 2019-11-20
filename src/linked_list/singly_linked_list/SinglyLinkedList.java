@@ -1,8 +1,8 @@
-package linked_list.single_linked_list;
+package linked_list.singly_linked_list;
 
 import node.SingleNode;
 
-public class SingleLinkedList {
+public class SinglyLinkedList {
     private SingleNode head;
     private SingleNode tail;
     private int size;// denotes size of list

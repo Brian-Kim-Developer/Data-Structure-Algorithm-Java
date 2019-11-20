@@ -1,9 +1,9 @@
-package linked_list.single_linked_list;
+package linked_list.singly_linked_list;
 
 public class Main {
     public static void main(String[] args) {
 
-        SingleLinkedList list = new SingleLinkedList();
+        SinglyLinkedList list = new SinglyLinkedList();
         list.createSingleLinkedList(5);
         list.traverseLinkedList();
 

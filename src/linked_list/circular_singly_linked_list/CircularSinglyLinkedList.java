@@ -1,8 +1,8 @@
-package linked_list.circular_single_linked_list;
+package linked_list.circular_singly_linked_list;
 
 import node.SingleNode;
 
-public class CircularSingleLinkedList {
+public class CircularSinglyLinkedList {
 
     private SingleNode head;
     private SingleNode tail;

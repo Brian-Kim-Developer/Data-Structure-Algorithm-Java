@@ -1,8 +1,8 @@
-package linked_list.double_linked_list;
+package linked_list.doubly_linked_list;
 
 public class Main {
     public static void main(String[] args) {
-        DoubleLinkedList list = new DoubleLinkedList();
+        DoublyLinkedList list = new DoublyLinkedList();
         list.createDoubleLinkedList(5);
         list.traverseLinkedList();
 

@@ -1,8 +1,8 @@
-package linked_list.circular_single_linked_list;
+package linked_list.circular_singly_linked_list;
 
 public class Main {
     public static void main(String[] args) {
-        CircularSingleLinkedList list = new CircularSingleLinkedList();
+        CircularSinglyLinkedList list = new CircularSinglyLinkedList();
         list.createSingleLinkedList(5);
         list.insertInLinkedList(10, 1);
         list.insertInLinkedList(20, 2);
