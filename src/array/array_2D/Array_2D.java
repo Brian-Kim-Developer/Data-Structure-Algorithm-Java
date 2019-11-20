@@ -1,4 +1,4 @@
-package array_2D;
+package array.array_2D;
 
 public class Array_2D {
     int arr[][] = null;

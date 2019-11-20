@@ -1,11 +1,6 @@
-package SingleNode;
-
-public class SingleNode {
-
-}
 package node;
 
-public  class SingleNode {
+public class SingleNode {
     private int value;
     private SingleNode next;
 
@@ -27,7 +22,7 @@ public  class SingleNode {
 
     @Override
     public String toString() {
-        return  value + "";
+        return value + "";
     }
 
 }
